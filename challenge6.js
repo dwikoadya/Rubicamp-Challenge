@@ -8,7 +8,6 @@ function sentencesManipulation(sentence) {
 }
 
 
-
 function stringManipulation(word) {
   huruf = word.charAt(0);
   if (huruf === 'a' || huruf === 'i' || huruf === 'u' || huruf === 'e' || huruf ==='o') {
